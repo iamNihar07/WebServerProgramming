@@ -13,5 +13,5 @@ A multi-thread web server capable of serving multiple requests in parallel
 > javac lab1.java <br>
 > java lab1
   
-  Then in multiple browsers, visit the index.html page using localhost at either http://127.0.0.1:6789/index.html or http://localhost:6789/index.htm
+  Then in multiple browsers, visit the index.html page using localhost at port 6789 using either http://127.0.0.1:6789/index.html or http://localhost:6789/index.html
 
