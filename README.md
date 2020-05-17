@@ -1,4 +1,4 @@
-# WebServerProgramming
+# Web Server Programming
 A multi-thread web server capable of serving multiple requests in parallel using TCP socket programming
 
 ## Functions
