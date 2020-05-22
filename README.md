@@ -15,4 +15,4 @@ A multi-thread web server capable of serving multiple requests in parallel using
   
   Then in multiple browsers, visit the index.html page using localhost at port 6789 using either http://127.0.0.1:6789/index.html or http://localhost:6789/index.html
 
-#### Submitted for Lab 1 assignment, CSE 4344 coursework at the University of Texas at Arlington. Read "Lab 1 task.pdf" for more details
+#### Submitted for Lab 1 assignment, CSE 4344 - Computer Network Organization coursework at the University of Texas at Arlington. Read "Lab 1 task.pdf" for more details
